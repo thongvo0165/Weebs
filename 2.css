@@ -1,0 +1,45 @@
+#Top{
+    background-color: #e74c3c;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+}
+#Top h1{
+    margin-bottom: 10px;
+}
+#bottom{
+    text-align: center;
+    font-weight: 700;
+    background-color: greenyellow;
+    margin-top: 30px;
+}
+.mid{
+    position: relative;
+}
+.main{
+    padding: 0 320px 0 20px;
+    line-height: 25px;
+}
+.main h1, .main h2{
+    margin: 10px 0 15px;
+}
+.main{
+    display: block;
+    margin: 20px auto;
+}
+#sidebar{
+    right: 15px;
+    top: 15px;
+    width: 270px;
+    font-size: 14px;
+    border: 2px dashed #bdc3c7;
+    padding: 20px 20px;
+}
+#sidebar img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+a:hover{
+    color: #e74c3c;
+}
